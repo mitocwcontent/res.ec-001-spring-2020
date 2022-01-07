@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: USAID Appropriate Use Framework, Exploring Fairness in Machine Learning
+uid: 59b64625-685b-93ef-caf6-4288389e4c1c
+video_files:
+  archive_url: https://archive.org/download/MITRES_EC-001S20/MITRES_EC_001S20_video03_300k.mp4
+  video_captions_file: /courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/2cbe5d998ed351afbd98e0ef2dfbbe3c_RQLsnWwjcNY.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/RQLsnWwjcNY/default.jpg
+  video_transcript_file: /courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/6b648f1329440b62802cad94f69ff0db_RQLsnWwjcNY.pdf
+video_metadata:
+  youtube_id: RQLsnWwjcNY
+---
